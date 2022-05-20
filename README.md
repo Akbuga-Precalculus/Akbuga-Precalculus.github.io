@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Math 20 Precalculus Course Information
 
-You can use the [editor on GitHub](https://github.com/Akbuga-Precalculus/Akbuga-Precalculus.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This website intended to guide your towards information about this course and navigating relevant course material.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Course Syllabus
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
