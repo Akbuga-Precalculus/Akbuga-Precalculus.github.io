@@ -1,17 +1,12 @@
-## Welcome to Math 20 Precalculus Course Information
+## Welcome to Dr. Akbuga's Math 20 Precalculus Course!
 
 This website intended to guide your towards information about this course and navigating relevant course material.
 
 ### Course Syllabus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Click to access the syllabus:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### Course Calendar
 
 - Bulleted
 - List
